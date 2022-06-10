@@ -1,0 +1,8 @@
+.home-banner__container {
+  background-image: url(/src/images/home-banner.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center;
+  height: 400px;
+  object-fit: cover;
+}

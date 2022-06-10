@@ -1,0 +1,14 @@
+.vipps {
+  width: 125px;
+  height: 53px;
+  border-radius: 6px;
+}
+
+.vipps__button {
+  margin-top: -8px !important;
+}
+
+.card__button {
+  width: 119px;
+  height: 53px;
+}

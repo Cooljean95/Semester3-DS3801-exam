@@ -1,0 +1,24 @@
+.Toppings{
+    display: flex;
+    justify-content: center;
+    border-width: 3px;
+}
+
+.topping{
+    display: flex;
+}
+
+.ToppingsContainer{
+    justify-content: center;
+}
+
+.TitleRow{
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+}
+
+.OrderButton{
+    border-width: 0;
+    text-decoration: none;
+}
